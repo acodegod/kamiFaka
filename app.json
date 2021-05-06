@@ -1,8 +1,8 @@
 {
-    "name": "佰阅发卡",
-    "description": "基于VUE3.0+FLASK构建的全新卡密发卡系统",
+    "name": "包子杂货铺",
+    "description": "包子杂货铺",
     "keywords": [
-        "佰阅发卡"
+        "包子杂货铺"
     ],
     "website": "https://github.com/Baiyuetribe/kamiFaka",
     "repository": "https://github.com/Baiyuetribe/kamiFaka",
